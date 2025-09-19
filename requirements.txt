@@ -1,0 +1,8 @@
+streamlit
+google-api-python-client
+pytube
+transformers
+torch
+nltk
+wordcloud
+matplotlib
